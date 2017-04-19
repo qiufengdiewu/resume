@@ -27,7 +27,7 @@ QQ/微信号：2080252788 / N15694345464
 毕业时间：2018年6月
 
 Github：https://github.com/LittileNiQ
-（目前有16个Repositories,13个Followers,一个仓库被Fork）
+（目前有25个Repositories,15个Followers,多个仓库被Fork）
 
 技术博客：https://littileniq.github.io
 
