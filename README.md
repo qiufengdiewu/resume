@@ -8,15 +8,6 @@ Email：LittleNiQ@aliyun.com
 
 QQ/微信号：2080252788 / N15694345464
 
-爱好: 看书、逛技术论坛，浏览知乎、简书等网站、听音乐，对新技术充满好奇。酷爱算法设计，并尝试解决各种问题。
-
-Github：https://github.com/LittileNiQ
-（目前有25个Repositories,15个Followers,多个仓库被Fork）
-
-技术博客：https://littileniq.github.io
-
-我的标签： 热爱互联网、热爱编程、程序设计、算法，重度Mac用户。
-
 近期照片：
 
 ## 个人信息
@@ -31,9 +22,14 @@ Github：https://github.com/LittileNiQ
 
 学校：吉林师范大学/计算机学院/计算机科学与技术专业
 
-学号：201441010107
+爱好: 看书、逛技术论坛，浏览知乎、简书等网站、听音乐，对新技术充满好奇。酷爱算法设计，并尝试解决各种问题。
 
-毕业时间：2018年6月
+Github：https://github.com/LittileNiQ
+（目前有25个Repositories,15个Followers,多个仓库被Fork）
+
+技术博客：https://littileniq.github.io
+
+我的标签： 热爱互联网、热爱编程、程序设计、算法，重度Mac用户。
 
 期望职位：研发工程师JAVA（可服从调剂，有意向接触更多事物，并愿意继续努力学习）
 
