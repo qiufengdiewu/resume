@@ -29,7 +29,7 @@ Github：https://github.com/LittileNiQ
 
 技术博客：https://littileniq.github.io
 
-我的标签： 热爱互联网、热爱编程、程序设计、算法，重度Mac用户。
+我的标签： 热爱互联网、热爱编程、程序设计、算法，开源积极分子，重度Mac用户。
 
 期望职位：研发工程师JAVA（可服从调剂，有意向接触更多事物，并愿意继续努力学习）
 
