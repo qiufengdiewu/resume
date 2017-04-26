@@ -24,7 +24,7 @@ QQ/微信号：2080252788 / N15694345464
 
 爱好: 看书、逛技术论坛，看博客、浏览知乎、简书等网站，对新技术充满好奇。酷爱算法设计，并尝试解决各种问题。
 
-Github：https://github.com/LittileNiQ
+GitHub：https://github.com/LittileNiQ
 （目前有25个Repositories,15个Followers,多个仓库被Fork）
 
 技术博客：https://littileniq.github.io
