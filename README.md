@@ -61,7 +61,7 @@ Github：https://github.com/LittileNiQ
      
      熟练应用Java集成开发环境Eclipse,MyEclipse进行java软件开发。
      
-     了解java网络编程和多线程编程，对TCP/IP，HTTP等网络协议有部分了解。
+     了解java网络编程和多线程编程，对TCP/IP，HTTP等网络协议有深入了解。
      
      了解J2EE架构的Java框架：J2EE,JSP/Servlet,SpringMVC等。
      
