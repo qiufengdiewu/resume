@@ -65,7 +65,7 @@ GitHub：https://github.com/LittileNiQ
      
      了解java网络编程和多线程编程，对TCP/IP，HTTP等网络协议有深入了解。
      
-     了解J2EE架构的Java框架：J2EE,JSP/Servlet,SpringMVC等。
+     了解J2EE架构的Java框架：J2EE,JSP/Servlet,Spring,SpringMVC等。
      
      熟悉MVC模式开发Web应用。
      
